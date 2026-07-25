@@ -2,7 +2,8 @@
 
 ## Files
 - `index.html` — complete responsive single-page website
-- `assets/ajay-gautam.jpeg` — profile photo supplied by the client
+- `assets/
+ajay-gautam.jpeg` — profile photo supplied by the client
 
 ## How to publish
 1. Purchase/register `advocatajay.com` through a domain registrar.
